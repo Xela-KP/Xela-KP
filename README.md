@@ -28,7 +28,7 @@ Hello stranger! Welcome to my corner of GitHub. I'm Alex: an aspiring full-stack
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="/images/nanami.jpg"/>
 
 <a href="https://github.com/Xela-KP"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Xela-KP&theme=radical&title_color=ff3068%253F"></a>
 <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xela-KP&theme=radical&date_format=M%20j%5B,%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
