@@ -31,7 +31,7 @@ Hello stranger! Welcome to my corner of GitHub. I'm Alex: an aspiring full-stack
 <img align="right" width="38%" src="/images/nanami.jpg"/>
 
 <a href="https://github.com/Xela-KP"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Xela-KP&theme=radical&title_color=ff3068%253F"></a>
-<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xela-KP&theme=radical&date_format=M%20j%5B,%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/Xela-KP"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xela-KP&theme=radical&date_format=M%20j%5B,%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📘 Current Project(s)
 
@@ -44,7 +44,7 @@ Hello stranger! Welcome to my corner of GitHub. I'm Alex: an aspiring full-stack
 </p>
 <p align="right">
   <a href="https://github.com/Xela-KP?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FXela-KP"/></a>
   <a href="https://github.com/Xela-KP?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Giingu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Xela-KP?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
